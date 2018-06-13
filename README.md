@@ -1,6 +1,8 @@
 # Sudoku Solver Application
 A Java application for finding solutions for the traditional Suodku game. It also determines if the board state is valid, in addition to whether a solution exists at all (some games don't have one).
 
+Note that the source code was written using IntelliJ, if you want to view the project through an IDE.
+
 ### Installation
 Download 'sudoku_solver.jar' from Executable(demo) folder
 
