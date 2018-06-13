@@ -7,4 +7,17 @@ Download 'sudoku_solver.jar' from Executable(demo) folder
 ### How to Use
 Enter numbers 0-9 in the textfields (don't worry, it automatically determines if your input is valid). Either 0 or just leaving it empty will show that board space being empty.
 
+&nbsp;
+<p align = "center">
+            <img src="https://github.com/tn16jv/Sudoku-Solver/blob/master/images/solved.PNG" alt="Sudoku solved">
+</p>
 
+&nbsp;
+<p align = "center">
+            <img src="https://github.com/tn16jv/Sudoku-Solver/blob/master/images/invalid.PNG" alt="Sudoku invalid">
+</p>
+
+&nbsp;
+<p align = "center">
+            <img src="https://github.com/tn16jv/Sudoku-Solver/blob/master/images/no_solution.PNG" alt="Sudoku no solution">
+</p>
