@@ -6,9 +6,9 @@ import java.awt.*;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
-public class ClientFrame extends JFrame {
-    public ClientFrame(int size)  {
-        setTitle("Sodoku Solver");
+class ClientFrame extends JFrame {
+    ClientFrame(int size)  {
+        setTitle("Sudoku Solver");
         setSize(425, 450);
         setLocation(0,0);
         addWindowListener(new WindowAdapter() {

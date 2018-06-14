@@ -11,7 +11,7 @@ Enter numbers 0-9 in the textfields (don't worry, it automatically determines if
 
 &nbsp;
 <p align = "center">
-            <img src="https://github.com/tn16jv/Sudoku-Solver/blob/master/images/solved.PNG" alt="Sudoku solved">
+            <img src="https://github.com/tn16jv/Sudoku-Solver/blob/master/images/yes_solution.PNG" alt="Sudoku solved">
 </p>
 
 &nbsp;
